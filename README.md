@@ -1,4 +1,4 @@
-# hello-world
+# Terminal_Code
 Unknown
 1.    ls : list directory contents(The ls command will show you the list of files in your current directory.)# ls
 2.    cd : Change Directory(The cd command will allow you to change directories.)# cd
